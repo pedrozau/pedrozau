@@ -1,12 +1,12 @@
 
-<h1 align="center" style="font-size:20px; text-align:center; color:rgb(29, 119, 172);"> Ethical Hacker r</h1>
+<h1 align="center" style="font-size:20px; text-align:center; color:rgb(29, 119, 172);"> Ethical Hacker </h1>
  
   <br>
 
  <div>
   <a href="https://github.com/pedrozau">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrozau&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrozau&layout=compact&langs_count=7&theme=dark"/>
+  <img style="margin:10px;" height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrozau&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img style="margin:10px;" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrozau&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div align="center" style="display: inline_bloc;"><br>
   <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg">
