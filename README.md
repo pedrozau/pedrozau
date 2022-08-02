@@ -2,7 +2,6 @@
 <h1 align="center" style="font-size:20px; text-align:center; color:rgb(29, 119, 172);"> Hi, I´m Pedro Zau </h1>
  
   <br>
-  
  <div>
   <a href="https://github.com/pedrozau">
   <img style="margin-right:10em;" height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrozau&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
