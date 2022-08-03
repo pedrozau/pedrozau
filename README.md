@@ -1,6 +1,4 @@
-
-<h1 align="center" style="font-size:20px; text-align:center; color:rgb(29, 119, 172);"> Hi, I´m Pedro Zau </h1>
- 
+<h1 align="center" style="font-size:20px; text-align:center; color:rgb(29, 119, 172);"> Hi, I´m Pedro Zau </h1> 
   <br>
  <div>
   <a href="https://github.com/pedrozau">
