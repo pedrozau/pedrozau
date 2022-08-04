@@ -1,4 +1,6 @@
  ![HackerPythonGIF (2)](https://user-images.githubusercontent.com/57961751/182896713-6aa3b96f-dc46-4470-b65c-c31f2a525b35.gif)
+ ![SoftwareSoftwareDevelopmentGIF](https://user-images.githubusercontent.com/57961751/182897610-510a1a41-c020-4b22-9bb6-230d67ffdfc9.gif)
+
 
 <h1 align="center" style="font-size:20px; text-align:center; color:rgb(29, 119, 172);"> Hi, I´m Pedro Zau </h1> 
  I live in Luanda 
