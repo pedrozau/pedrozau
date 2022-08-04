@@ -5,7 +5,7 @@
 <h1 align="center" style="font-size:20px; text-align:center; color:rgb(29, 119, 172);"> Hi, I´m Pedro Zau </h1> 
 <p>I live in Luanda/Angola</p> 
  <p>I´m ethical hacking</p> 
- <p>I´m front-end developer</p>
+ <p>I´m back-end developer</p>
  <p>I´m front-end developer</p>
  <p>I´m ui/ux designer</p>
 
