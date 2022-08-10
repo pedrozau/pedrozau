@@ -7,7 +7,6 @@
  <p>I´m front-end developer</p>
  <p>I´m ui/ux designer</p>
 
-
  
   <br>
  <div>
