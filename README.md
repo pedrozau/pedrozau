@@ -1,10 +1,12 @@
 
-![HackerPythonGIF (2)](https://user-images.githubusercontent.com/57961751/182896713-6aa3b96f-dc46-4470-b65c-c31f2a525b35.gif) 
-<h1 align="center" style="font-size:20px; text-align:center; color:rgb(29, 119, 172);"> Hi, I´m Pedro Zau </h1> 
-<h2>I live in Luanda/Angola</h2> 
- <h2>I´m ethical hacker</h2> 
- <h2>I´m Full-stack developer</h2>
- <h2>I´m ui/ux designer</h2>
+<span style="text-align:center;"> Hi, I´m Pedro Zau</span>
+
+ <ul>
+ <li>>I´m ethical hacker</li>
+ <li>I´m Full-stack developer</li>
+ <li>I´m ui/ux designer</li>
+ </ul>
+ 
   <br>
  <div>
  
