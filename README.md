@@ -1,8 +1,8 @@
 
-<span style="text-align:center;"> Hi, I´m Pedro Zau</span>
+<span>Hi, I´m Pedro Zau</span>
 
  <ul>
- <li>>I´m ethical hacker</li>
+ <li>I´m ethical hacker</li>
  <li>I´m Full-stack developer</li>
  <li>I´m ui/ux designer</li>
  </ul>
