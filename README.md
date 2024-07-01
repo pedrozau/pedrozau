@@ -28,9 +28,6 @@ I'm a versatile professional, with solid skills in cyber security as an ethical 
 
 <a href="https://github.com/pedrozau" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrozau&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/pedrozau/pedrozau" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=pedrozau&repo=pedrozau&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
 
