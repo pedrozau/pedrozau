@@ -3,7 +3,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cyber Security | Pentester | Fullstack developer
 ------------------------------------------------
 I'm a versatile professional, with solid skills in cyber security as an ethical hacker, as well as extensive experience in programming and design. My passion for technology and problem solving enables me to challenges creatively and effectively. I have a proven track record in identifying security vulnerabilities, developing programming solutions and creating attractive designs. My ethical approach and commitment to integrity make me a valuable asset to any team or project. for any team or project.
-* 🌍  I'm based in Luanda* ✉️  You can contact me at [pedrozau28@gmail.com](mailto:pedrozau28@gmail.com)
+* 🌍  I'm based in Luanda
+* * ✉️  You can contact me at [pedrozau28@gmail.com](mailto:pedrozau28@gmail.com)
 
 ### Skills
 
