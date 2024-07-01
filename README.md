@@ -28,8 +28,8 @@ I'm a versatile professional, with solid skills in cyber security as an ethical 
 
 ### Support Me
 
-<ul style="list-style-type: none; margin: auto; width:500px">
+<ul style="list-style-type: none; margin:0;">
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/pedrozau"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+<li style="display: flex; justify-content:center;align-items:conter;"><a href="https://www.buymeacoffee.com/pedrozau"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
 </ul>
